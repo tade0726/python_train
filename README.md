@@ -11,6 +11,8 @@ Welcome to leave comments on issues, help improve this python train material
 - prediction modelling
   - https://www.kaggle.com/srodriguex/model-and-feature-selection-with-python
 
+Data and notebooks are upload under folder `/santander_customer_satisfaction`. 
+
 ### Pandas tutorials
 - basic:
   - https://pandas.pydata.org/pandas-docs/stable/10min.html
