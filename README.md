@@ -11,7 +11,7 @@ Welcome to leave comments on issues, help improve this python train material
 - prediction modelling
   - https://www.kaggle.com/srodriguex/model-and-feature-selection-with-python
 
-Data and notebooks are upload under folder `/santander_customer_satisfaction`. 
+Data and notebooks are upload under folder `/santander_customer_satisfaction`.
 
 ### Pandas tutorials
 - basic:
@@ -32,6 +32,11 @@ Dask support parallel-computing in Python with Pandas/Numpy like api, handling d
 - Slides: http://matthewrocklin.com/slides/dask-short#/
 
 ## 2. Change log
+
 ### 2017-11-18
 - upload kaggle case study data and notebook (Santander Customer Satisfaction)
 - upload readme
+
+### 2017-11-30
+
+- unload last day training content
