@@ -2,6 +2,15 @@
 
 Welcome to leave comments on issues, help improve this python train material
 
+## 0.Zhihu
+
+### 华策 account
+- https://www.zhihu.com/org/hua-ce-hui-hong/posts
+
+### collections
+- https://www.zhihu.com/collection/135475055
+- https://www.zhihu.com/collection/135111938
+
 
 ## 1. Shared material
 ### Santander Customer Satisfaction - kaggle case study
