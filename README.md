@@ -39,4 +39,4 @@ Dask support parallel-computing in Python with Pandas/Numpy like api, handling d
 
 ### 2017-11-30
 
-- unload last day training content
+- upload last day training content
