@@ -11,6 +11,9 @@ Welcome to leave comments on issues, help improve this python train material
 - https://www.zhihu.com/collection/135475055
 - https://www.zhihu.com/collection/135111938
 
+### Deep learning apply on structure data
+- https://mp.weixin.qq.com/s/gljfrNwNvrK7teJ-DYyNIw
+
 
 ## 1. Shared material
 ### Santander Customer Satisfaction - kaggle case study
